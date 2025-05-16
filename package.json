@@ -1,0 +1,5 @@
+{
+  "name": "mind-meld-friday-off",
+  "private": true,
+  "workspaces": ["client", "server"]
+}
